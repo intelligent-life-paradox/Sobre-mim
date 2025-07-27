@@ -53,7 +53,7 @@
 
 
 
-### 🧠 Hard Skills:
+### 🧠 Outras habilidades:
 
 - 📊 Estatística
 - 📐 Análise Matemática
