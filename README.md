@@ -2,7 +2,7 @@
 ### 💻 Tecnologias:
 
 <p align="left">
-  ### 💻 Tecnologias:
+  
 
 <p align="left">
   <!-- Python -->
