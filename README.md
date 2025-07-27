@@ -52,7 +52,7 @@
 </p>
 
 
-🛠️ Estou no processo de consolidar as seguintes habilidades/tecnologias:
+### 🛠️ Estou no processo de consolidar as seguintes habilidades/tecnologias:
 <p align="left"> <!-- Docker --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> <!-- Google Cloud SDK --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/> </p>
 
 🐳 Docker – Criação de containers para garantir ambientes portáveis e reproduzíveis em projetos de ciência de dados e APIs.
