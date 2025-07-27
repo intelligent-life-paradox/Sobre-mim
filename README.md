@@ -1,6 +1,6 @@
 # Sobre-mim
-Minhas habilidades para projetos
- 
+### 💻 Tecnologias:
+
 <p align="left">
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
@@ -8,27 +8,30 @@ Minhas habilidades para projetos
   <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
 
-  <!-- SQL Server (não tem no Devicon, usar logo alternativo) -->
+  <!-- SQL Server -->
   <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40"/>
 
-  <!-- SQL genérico -->
+  <!-- SQL -->
   <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="40"/>
 
   <!-- PyTorch -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
 
- 
+  <!-- Keras -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" />
 
   <!-- AWS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
 
-  <!-- Shell / Bash -->
+  <!-- Bash / Shell -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
 
-   <!-- Flask -->
+  <!-- Flask -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
-</p>
 
+  <!-- R -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" />
+</p>
 
 
 
