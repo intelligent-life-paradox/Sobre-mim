@@ -52,6 +52,19 @@
 </p>
 
 
+🛠️ Em Desenvolvimento( habilidades em consolidação):
+<p align="left"> <!-- Docker --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> <!-- Google Cloud SDK --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/> </p>
+🐳 Docker – Criação de containers para garantir ambientes portáveis e reproduzíveis em projetos de ciência de dados e APIs.
+
+☁️ Google Cloud SDK (gcloud) – Gerenciamento de recursos e serviços em nuvem via terminal, com foco em integração com pipelines de dados e MLOps.
+
+🧪 MLOps – Automatização de experimentos, versionamento de modelos e orquestração de treinamentos em ambientes controlados.
+
+📦 CI/CD aplicado a projetos de ML – Aprendendo a aplicar DevOps à entrega contínua de modelos e dashboards interativos.
+
+📁 DataOps e boas práticas em engenharia de dados – Organização de dados em camadas, pipelines robustos e monitoração de ingestão.
+
+🧰 Testes automatizados e deploys de APIs Flask/Streamlit – Garantia de robustez e rastreabilidade para aplicações de dados em produção.
 
 ### 🧠 Outras habilidades:
 
