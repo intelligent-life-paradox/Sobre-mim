@@ -17,8 +17,7 @@ Minhas habilidades para projetos
   <!-- PyTorch -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
 
-  <!-- Keras -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" />
+ 
 
   <!-- AWS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
@@ -26,7 +25,7 @@ Minhas habilidades para projetos
   <!-- Shell / Bash -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
 
-    <!-- Flask -->
+   <!-- Flask -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
 </p>
 
