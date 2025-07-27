@@ -46,6 +46,9 @@
 
   <!-- R -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
+
+  <!-- AWS (via Icons8) -->
+ <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40"/>
 </p>
 
 
