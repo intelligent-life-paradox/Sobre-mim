@@ -26,7 +26,28 @@ Minhas habilidades para projetos
   <!-- Shell / Bash -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
 
-  <!-- Flask -->
+    <!-- Flask -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
 </p>
+
+
+
+
+### 🧠 Hard Skills:
+
+- 📊 Estatística
+- 📐 Análise Matemática
+- 📈 Probabilidade
+- 🔢 Álgebra Linear
+- 🧮 Otimização (linear e inteira)
+- 🧪 Simulações Estocásticas
+- 🌐 Teoria dos Grafos
+-📎 Modelos G(n, p)
+- 🎲 Teoria dos Jogos
+- ⏳ Complexidade Computacional
+- 🧠 Machine Learning
+- 🧬 Deep Learning
+- ⏱️ Séries Temporais
+
+
 
